@@ -45,6 +45,7 @@ This project implements **enterprise-grade security** for a fintech application,
 - **Threat Modeling & Risk Assessment**
 
 ## 🎥 Demo Video
-[📺 Click here to watch the demo](#)
+[📺 https://www.loom.com/share/8ea052a7b94e4214a4912b877426c773?sid=b09a1797-34a8-4669-acaa-f75ce2af37d5](#)
 
-## 📝 Repository Structure
+![image](https://github.com/user-attachments/assets/aa7bad69-4f5a-48de-8857-0802bb0cd236)
+
