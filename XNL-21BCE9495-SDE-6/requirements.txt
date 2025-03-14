@@ -1,0 +1,6 @@
+Flask
+Flask-Cors
+Flask-JWT-Extended
+Streamlit
+requests
+hashlib
